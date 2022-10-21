@@ -1,7 +1,7 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
-Link Via VERCEl https://rocket-pay-ruddy.vercel.app/
+Link do Site via VERCEL https://rocket-pay-ruddy.vercel.app/
 </p>
 
 <p align="center">
