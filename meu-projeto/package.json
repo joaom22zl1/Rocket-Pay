@@ -1,5 +1,5 @@
 {
-  "name": "projeto-base",
+  "name": "meu-projeto",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,5 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
-  },
-  "dependencies": {
-    "imask": "^6.4.3"
   }
 }
